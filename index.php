@@ -15,6 +15,6 @@ require_once ('loader.php');
         <div id="container">
         </div>
         <?php include_once (Chemins::VIEW.'v_footer.php'); ?>
-        <p>Hello World 2</p>
+        <p>Hello World 3</p>
     </body>
 </html>
